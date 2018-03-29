@@ -1,0 +1,41 @@
+{
+  "name": "react-native-uport-connect",
+  "version": "0.1.0",
+  "description": "Library for integrating uPort into your React Native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uport-project/react-native-uport-connect.git"
+  },
+  "keywords": [
+    "uport",
+    "identity",
+    "self-sovereign",
+    "ethereum",
+    "consensys",
+    "web3",
+    "react-native"
+  ],
+  "author": "“Simonas Karuzas <simonas.karuzas@consensys.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uport-project/react-native-uport-connect/issues"
+  },
+  "homepage": "https://github.com/uport-project/react-native-uport-connect#readme",
+  "dependencies": {
+    "babel-plugin-module-resolver": "^3.1.1",
+    "buffer": "^5.1.0",
+    "crypto-browserify": "^3.12.0",
+    "events": "^2.0.0",
+    "process": "^0.11.10",
+    "qs": "^6.5.1",
+    "stream-browserify": "^2.0.1",
+    "uport-connect": "^0.7.1",
+    "uuid": "^3.2.1",
+    "vm-browserify": "^1.0.0",
+    "zlib-browserify": "0.0.3"
+  }
+}
