@@ -5,7 +5,7 @@ Library for integrating uPort into your React Native app
 
 [Checkout our demo app](https://github.com/uport-project/uport-react-native-demo)
 
-## Usage
+## Installation
 
 1. `yarn add react-native-uport-connect`
 2. Add `"react-native-uport-connect/babel-preset.js"` to `.babelrc`
@@ -59,7 +59,7 @@ Library for integrating uPort into your React Native app
   </intent-filter>
 ```
 
-## Sample usage
+## Usage
 
 **Warning:** this API will likely change in the near future
 
