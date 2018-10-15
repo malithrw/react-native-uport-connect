@@ -1,6 +1,6 @@
 {
   "name": "react-native-uport-connect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Library for integrating uPort into your React Native app",
   "main": "index.js",
   "scripts": {
